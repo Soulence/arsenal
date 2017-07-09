@@ -12,6 +12,10 @@
 
 * Kali Linux Configuration
 
+## Prerequisite
+
+* pip install blessigns
+
 Arsenal will perform the following configurations-
 
   - Update the password
